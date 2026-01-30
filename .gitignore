@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+churnenv/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Large / sensitive
+dataset/raw/
+dataset/Churn_Modelling.csv
+
