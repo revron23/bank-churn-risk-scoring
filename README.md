@@ -28,5 +28,5 @@ Plots are available in the `plots/` folder:
 
 ## 🖥️ How to Run
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+[pip install -r requirements.txt
+streamlit run app.py](https://bank-churn-risk-scoring-bk5g98hnwabutwr9dqfcgf.streamlit.app/)
